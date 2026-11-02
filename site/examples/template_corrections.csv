@@ -1,0 +1,2 @@
+record_id,action,genes,variant,evidence_type,population,association,note
+R3,replace,TOMM40,rs2075650,,,,"Variant lies in TOMM40; credited to TOMM40 only"

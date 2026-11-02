@@ -1,0 +1,4 @@
+record_id,gene,association,study,population,variant,cohort,evidence_type
+R1,FOXO3,significant,PMID:18765803,Japanese American,rs2802292,HHP,genetic association
+R2,FOXO3,non-significant,PMID:19196970,German,rs2802292,,genetic association
+R3,"APOE, TOMM40",significant,PMID:22234866,Danish,rs2075650,,genetic association

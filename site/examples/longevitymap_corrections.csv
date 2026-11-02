@@ -1,0 +1,10 @@
+record_id,action,genes,variant,evidence_type,population,association,note
+389,reassign,APOE,,,,,"APOE allele E4 mis-mapped to UBE4B (alias E4); reassigned to APOE"
+G535,reassign,APOE,,,,,"APOE alleles E2/E3 mis-mapped to DBT/DLD (aliases E2/E3); reassigned to APOE"
+G536,reassign,APOE,,,,,"APOE alleles E2/E3/E4 mis-mapped to DBT/DLD/UBE4B; reassigned to APOE"
+G537,reassign,APOE,,,,,"APOE alleles E2/E3/E4 mis-mapped to DBT/DLD/UBE4B; reassigned to APOE"
+555,reassign,APOE,,,,,"APOE allele E4 mis-mapped to UBE4B (alias E4); reassigned to APOE"
+G461,replace,FOXO1;RPTOR;EIF4EBP1;LAMTOR2;AKT1S1;PRR5L;RHOA,gene-expression single-gene result,gene-level expression,,,"Passtoors et al.: pathway-level mTOR result; seven genes with corrected single-gene expression differences >= 5% (expression evidence, all-modalities analysis only)"
+G469,replace,TOMM40,rs2075650,,,,"Sebastiani et al.: 281-SNP predictive model; only rs2075650 (TOMM40 intron) was genome-wide significant"
+G412,annotate,,,,,,"Composite GSTT1-TP53 genotype analysis; not decomposable into single-gene results"
+G440,annotate,,,,,,"Conneely et al. share most NECS cases and controls with Sebastiani et al. (G469); no LMNA evidence is counted"
